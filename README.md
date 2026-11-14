@@ -1,0 +1,1 @@
+Simulated vehicle dashboard with sensor and control inputs. Ultrasonic-based fuel-level estimation. LM35-based engine temperature monitoring. Potentiometer-based speed indication (0–120 km/h). CAN communication between transmitter and receiver nodes. Interrupt-driven left, right, and headlight indicators.
